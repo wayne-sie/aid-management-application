@@ -1,4 +1,4 @@
-//Wayne Sie 139951180 BTP200SCC Cornel Barna
+
 #pragma once
 #include <iostream>
 

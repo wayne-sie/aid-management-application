@@ -1,4 +1,4 @@
-//Wayne Sie 139951180
+
 #include <iostream>
 #include "ErrorState.h"
 #include <cstring>

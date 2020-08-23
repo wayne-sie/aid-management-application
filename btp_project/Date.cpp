@@ -1,4 +1,4 @@
-//Wayne Sie 139951180 BTP200SCC
+
 #include <iostream>
 #include <string>
 

@@ -1,4 +1,4 @@
-//Wayne Sie 139951180
+
 #pragma once
 #include <iostream>
 

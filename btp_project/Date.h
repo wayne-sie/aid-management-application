@@ -1,5 +1,4 @@
 
-//Wayne Sie 139951180 BTP200SCC
 #pragma once
 #include <iostream>
 
