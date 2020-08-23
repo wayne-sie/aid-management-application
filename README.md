@@ -1,0 +1,2 @@
+# aid-management application
+ When disaster hits a populated area, the most critical task is to provide immediately affected people with what they need as quickly and as efficiently as possible. This project completes an application that manages the list of goods that need to be shipped to the disaster area. The client application tracks the quantity of items needed, tracks the quantity on hand, and stores the information in a file for future use.
