@@ -1,0 +1,15 @@
+Current bugs
+
+1. Issues with sort? Lines get fucked. this means write might be wrong.  **FIXED**
+2. Adding a product with errors somehow leaves something in the buffer. skips the next menu() const
+3. prior to delete (option 6) console waits for an enter
+
+added cin.ignore(100,'\n'); if reading fails when adding product;
+added cin.ignore(100,'\n) to product.read if errors happen
+
+add cin.ignore(100,'\n') to Perishable.cpp(52),  amaapp(297)
+
+
+
+
+
